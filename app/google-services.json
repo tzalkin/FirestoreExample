@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "165953651578",
+    "project_id": "firestoreexample-cca2e",
+    "storage_bucket": "firestoreexample-cca2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165953651578:android:32a908523c6163b7ed8cc3",
+        "android_client_info": {
+          "package_name": "com.etaihardoon.firestoreexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165953651578-hm24pn148ip06vf9ghqu7h50uuhuufgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9DkMe2bK2zje1QFGo_y15MFkURhF1ouY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165953651578-hm24pn148ip06vf9ghqu7h50uuhuufgu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
